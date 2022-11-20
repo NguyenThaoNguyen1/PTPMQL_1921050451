@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Id_tu_dong.props" />
+</Project>
